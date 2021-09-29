@@ -8,11 +8,11 @@
 - snake.cpp蛇模块。包含了蛇的初始化；头的创建；尾的删除；蛇的移动；难度的改变（通过判断蛇的长度，调用不同的速度）
 - wall.cpp墙模块。包含了墙的初始化函数；以及墙的显示函数；
 - food.cpp食物模块。包含设置食物函数。
-
-
-![image-20210928231332803](C:\Users\herui\AppData\Roaming\Typora\typora-user-images\image-20210928231332803.png)
+![image](https://user-images.githubusercontent.com/70928899/135209616-670e9262-f930-4f63-8009-391ea20d05b6.png)
 
 
 
-![image-20210928231410286](C:\Users\herui\AppData\Roaming\Typora\typora-user-images\image-20210928231410286.png)
+![image](https://user-images.githubusercontent.com/70928899/135209634-67e459cb-166b-4091-b9f7-7dfa73e9a62f.png)
+
+
 
