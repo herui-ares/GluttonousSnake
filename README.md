@@ -9,7 +9,10 @@
 - wall.cpp墙模块。包含了墙的初始化函数；以及墙的显示函数；
 - food.cpp食物模块。包含设置食物函数。
 
-- test
-- 
 
-### test again on the cloud.
+![image-20210928231332803](C:\Users\herui\AppData\Roaming\Typora\typora-user-images\image-20210928231332803.png)
+
+
+
+![image-20210928231410286](C:\Users\herui\AppData\Roaming\Typora\typora-user-images\image-20210928231410286.png)
+
